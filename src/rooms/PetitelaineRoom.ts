@@ -224,9 +224,9 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
         }
 
 		let words = fs.readFileSync(`${__dirname}/../words/fr.json`, 'utf8');
-        words = JSON.parse(words).words;
+        let words_tab : string[][] = JSON.parse(words).words;
 
-        this.state.words = words[Math.floor(Math.random() * words.length)];
+        this.state.words = words_tab[Math.floor(Math.random() * words.length)];
 
         let susWord = Math.round(Math.random());
         this.state.imposter = this.state.turns[Math.floor(Math.random() * this.state.turns.length)];
