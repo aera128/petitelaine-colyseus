@@ -2,6 +2,9 @@
   "private": true,
   "name": "my-app",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  },
   "description": "npm init template for bootstrapping an empty Colyseus project",
   "main": "lib/index.js",
   "scripts": {
