@@ -32,6 +32,7 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
                 }
             } catch (e) {}
             this.broadcast('stateChange', this.state);
+
         });
 
         this.onMessage('start', (client: Client) => {
@@ -221,7 +222,6 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
     }
 
     startGame() {
-        this.state.state = 'game';
         this.state.turns = Array.from(this.state.players.keys());
         for (let i = this.state.turns.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
@@ -242,6 +242,7 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
         });
         this.state.currentTurn = 0;
         this.state.round = 0;
+        this.state.state = 'game';
     }
 
     nextTurn() {
