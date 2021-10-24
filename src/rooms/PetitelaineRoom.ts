@@ -31,7 +31,9 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
                     } catch (e) {}
                 }
             } catch (e) {}
-            this.broadcast('stateChange', this.state);
+            setTimeout(() => {
+                this.broadcast('stateChange', this.state);
+            }, 200);
         });
 
         this.onMessage('start', (client: Client) => {
@@ -46,7 +48,9 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
             } catch (e) {
                 console.error(e);
             }
-            this.broadcast('stateChange', this.state);
+            setTimeout(() => {
+                this.broadcast('stateChange', this.state);
+            }, 200);
         });
 
         this.onMessage('write', (client: Client, data) => {
@@ -63,7 +67,9 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
             } catch (e) {
                 console.error(e);
             }
-            this.broadcast('stateChange', this.state);
+            setTimeout(() => {
+                this.broadcast('stateChange', this.state);
+            }, 200);
         });
 
         this.onMessage('vote', (client: Client, vote) => {
@@ -136,7 +142,9 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
             } catch (e) {
                 console.error(e);
             }
-            this.broadcast('stateChange', this.state);
+            setTimeout(() => {
+                this.broadcast('stateChange', this.state);
+            }, 200);
         });
 
         this.onMessage('backToLobby', (client: Client) => {
@@ -148,7 +156,9 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
             } catch (e) {
                 console.error(e);
             }
-            this.broadcast('stateChange', this.state);
+            setTimeout(() => {
+                this.broadcast('stateChange', this.state);
+            }, 200);
         });
 
         this.onMessage('kickPlayer', (client: Client, playerId: string) => {
@@ -160,7 +170,9 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
             } catch (e) {
                 console.error(e);
             }
-            this.broadcast('stateChange', this.state);
+            setTimeout(() => {
+                this.broadcast('stateChange', this.state);
+            }, 200);
         });
 
         this.onMessage('sendMessage', (client: Client, message: string) => {
@@ -174,7 +186,9 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
             } catch (e) {
                 console.error(e);
             }
-            this.broadcast('stateChange', this.state);
+            setTimeout(() => {
+                this.broadcast('stateChange', this.state);
+            }, 200);
         });
     }
 
@@ -190,14 +204,18 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
             this.state.leader = client.sessionId;
         }
 
-        this.broadcast('stateChange', this.state);
+        setTimeout(() => {
+            this.broadcast('stateChange', this.state);
+        }, 200);
     }
 
     async onLeave(client: Client, consented: boolean) {
         console.log(client.sessionId, 'left!');
 
         this.leaveGame(client.sessionId);
-        this.broadcast('stateChange', this.state);
+        setTimeout(() => {
+            this.broadcast('stateChange', this.state);
+        }, 200);
     }
 
     async onDispose() {
