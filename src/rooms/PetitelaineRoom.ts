@@ -31,6 +31,7 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
                     } catch (e) {}
                 }
             } catch (e) {}
+            this.broadcast('stateChange', this.state);
         });
 
         this.onMessage('start', (client: Client) => {
@@ -45,6 +46,7 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
             } catch (e) {
                 console.error(e);
             }
+            this.broadcast('stateChange', this.state);
         });
 
         this.onMessage('write', (client: Client, data) => {
@@ -58,10 +60,10 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
                         this.nextTurn();
                     }
                 }
-                this.broadcast('stateChange', this.state);
             } catch (e) {
                 console.error(e);
             }
+            this.broadcast('stateChange', this.state);
         });
 
         this.onMessage('vote', (client: Client, vote) => {
@@ -134,6 +136,7 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
             } catch (e) {
                 console.error(e);
             }
+            this.broadcast('stateChange', this.state);
         });
 
         this.onMessage('backToLobby', (client: Client) => {
@@ -145,6 +148,7 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
             } catch (e) {
                 console.error(e);
             }
+            this.broadcast('stateChange', this.state);
         });
 
         this.onMessage('kickPlayer', (client: Client, playerId: string) => {
@@ -153,10 +157,10 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
                     this.broadcast('kicked', playerId);
                     this.leaveGame(playerId);
                 }
-                this.broadcast('stateChange', this.state);
             } catch (e) {
                 console.error(e);
             }
+            this.broadcast('stateChange', this.state);
         });
 
         this.onMessage('sendMessage', (client: Client, message: string) => {
@@ -167,10 +171,10 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
                     this.state.players.get(client.sessionId).avatar,
                     message
                 );
-                this.broadcast('stateChange', this.state);
             } catch (e) {
                 console.error(e);
             }
+            this.broadcast('stateChange', this.state);
         });
     }
 
@@ -223,8 +227,8 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
             [this.state.turns[i], this.state.turns[j]] = [this.state.turns[j], this.state.turns[i]];
         }
 
-		let words = fs.readFileSync(`${__dirname}/../words/fr.json`, 'utf8');
-        let words_tab : string[][] = JSON.parse(words).words;
+        let words = fs.readFileSync(`${__dirname}/../words/fr.json`, 'utf8');
+        let words_tab: string[][] = JSON.parse(words).words;
 
         this.state.words = words_tab[Math.floor(Math.random() * words.length)];
 
