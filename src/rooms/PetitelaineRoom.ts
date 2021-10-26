@@ -32,7 +32,6 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
                 }
             } catch (e) {}
             this.broadcast('stateChange', this.state);
-
         });
 
         this.onMessage('start', (client: Client) => {
@@ -54,7 +53,9 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
             try {
                 if (
                     this.state.state === 'game' &&
-                    client.sessionId === this.state.turns[this.state.currentTurn]
+                    client.sessionId === this.state.turns[this.state.currentTurn] &&
+                    data.word &&
+                    data.word.length > 0
                 ) {
                     this.state.players.get(client.sessionId).words[this.state.round] = data.word;
                     if (data.submit) {
@@ -231,7 +232,7 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
         let words = fs.readFileSync(`${__dirname}/../words/fr.json`, 'utf8');
         let words_tab: string[][] = JSON.parse(words).words;
 
-        this.state.words = words_tab[Math.floor(Math.random() * words.length)];
+        this.state.words = words_tab[Math.floor(Math.random() * words_tab.length)];
 
         let susWord = Math.round(Math.random());
         this.state.imposter = this.state.turns[Math.floor(Math.random() * this.state.turns.length)];
