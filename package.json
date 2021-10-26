@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "my-app",
+  "name": "petitelaine-colyseus",
   "version": "1.0.0",
   "engines": {
     "node": "14.x"
