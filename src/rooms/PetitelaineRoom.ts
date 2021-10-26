@@ -53,12 +53,10 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
             try {
                 if (
                     this.state.state === 'game' &&
-                    client.sessionId === this.state.turns[this.state.currentTurn] &&
-                    data.word &&
-                    data.word.length > 0
+                    client.sessionId === this.state.turns[this.state.currentTurn]
                 ) {
                     this.state.players.get(client.sessionId).words[this.state.round] = data.word;
-                    if (data.submit) {
+                    if (data.submit && data.word && data.word.length > 0) {
                         this.nextTurn();
                     }
                 }
