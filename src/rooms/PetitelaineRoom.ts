@@ -262,7 +262,16 @@ export class PetitelaineRoom extends Room<PetitelaineRoomState> {
     leaveGame(id: string) {
         if (this.state.state === 'game') {
             this.state.turns = this.state.turns.filter((t) => t !== id);
-            this.nextTurn();
+            if (this.state.currentTurn >= this.state.turns.length) {
+                if (this.state.round + 1 >= 3) {
+                    this.state.state = 'vote';
+                    this.state.round = 0;
+                    this.state.currentTurn = 0;
+                } else {
+                    this.state.round++;
+                }
+                this.state.currentTurn = 0;
+            }
         }
         this.state.players.delete(id);
         if (this.state.leader === id) {
