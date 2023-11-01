@@ -2,7 +2,7 @@ FROM node:16
 
 ENV PORT 2567
 
-WORKDIR /colyseus-app
+WORKDIR ./site/petitelaine-colyseus
 
 # A wildcard is used to ensure both package.json AND package-lock.json are copied
 COPY package*.json ./
