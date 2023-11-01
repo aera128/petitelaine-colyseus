@@ -1,8 +1,0 @@
-http://petitelaine.sk4ur.com {
-        redir https://petitelaine.sk4ur.com{uri}
-}
-
-petitelaine.sk4ur.com {
-        encode zstd gzip
-        reverse_proxy http://colyseus:2567
-}
