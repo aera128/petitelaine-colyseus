@@ -1,141 +1,2152 @@
 {
     "words": [
-        ["Google", "Yahoo"],
-        ["Apple", "Microsoft"],
-        ["Disney", "Pixar"],
-        ["Playstation", "Xbox"],
-        ["PC", "Console"],
-        ["Minecraft", "Roblox"],
-        ["Bill Gates", "Steve Jobs"],
-        ["Elon Musk", "Jeff Besos"],
-        ["Musique", "Cinéma"],
-        ["Les Simpsons", "Family Guys"],
-        ["Burger King", "MacDonalds"],
-        ["Ordinateur", "Smartphone"],
-        ["Frites", "Potatoes"],
-        ["Voiture", "Moto"],
-        ["Discord", "Skype"],
-        ["Dragon Ball", "Naruto"],
-        ["Ciseaux", "Couteau"],
-        ["Twitter", "Facebook"],
-        ["Gourde", "Bouteille"],
-        ["Pipi", "Caca"],
-        ["Chine", "Japon"],
-        ["France", "Etats-Unis"],
-        ["Maladie", "Coronavirus"],
-        ["Steam", "Epic Games"],
-        ["Warzone", "Fortnite"],
-        ["Pomme", "Poire"],
-        ["Wifi", "Bluetooth"],
-        ["Douche", "Bain"],
-        ["Lit", "Canapé"],
-        ["Billet", "Carte Bleu"],
-        ["Kim Jong-un", "Vladimir Poutine"],
-        ["Concombre", "Banane"],
-        ["Tomate", "Poivron"],
-        ["Mario", "Sonic"],
-        ["Squeezie", "PewDiePie"],
-        ["Coca Cola", "Pepsi"],
-        ["Ski", "Surf"],
-        ["YouTube", "TikTok"],
-        ["Netflix", "Disney+"],
-        ["Appartement", "Maison"],
-        ["Télévision", "Tablette"],
-        ["Café", "Thé"],
-        ["Pain au chocolat", "Chocolatine"],
-        ["Twitch", "Youtube"],
-        ["Photo", "Vidéo"],
-        ["Four", "Micro-onde"],
-        ["Londres", "Paris"],
-        ["Burger", "Sandwich"],
-        ["Bus", "Camion"],
-        ["Avion", "Hélicoptère"],
-        ["Poêle", "Casserole"],
-        ["Crêpe", "Galette Bretonne"],
-        ["Faim", "Soif"],
-        ["Piano", "Guitare"],
-        ["Lunettes", "Jumelles"],
-        ["PUBG", "Fortnite"],
-        ["Cinéma", "Netflix"],
-        ["McFly", "Carlito"],
-        ["Mouchoir", "PQ"],
-        ["Piano", "Synthétiseur"],
-        ["Trompette", "Saxophone"],
-        ["GTA", "Watch Dogs"],
-        ["The Witcher", "Assassin\"s Creed"],
-        ["Free", "SFR"],
-        ["Orange", "SFR"],
-        ["Orange", "Free"],
-        ["BFMTV", "CNEWS"],
-        ["Skyrock", "NRJ"],
-        ["DS", "Gameboy"],
-        ["Porte", "Fenêtre"],
-        ["Pâtes", "Riz"],
-        ["The Witcher", "Skyrim"],
-        ["Java", "Javascript"],
-        ["Mélenchon", "Marine LePen"],
-        ["Mer", "Océan"],
-        ["Maya", "Aztèque"],
-        ["Père Noël", "Saint Nicolas"],
-        ["What The Cut", "SLG"],
-        ["One Piece", "Fairy Tail"],
-        ["Star Wars", "Star Trek"],
-        ["New York", "Los Angeles"],
-        ["Chasse", "Pêche à la ligne"],
-        ["Tour Eiffel", "Statue de la liberté"],
-        ["Lac", "Flaque"],
-        ["Lucas", "Caca"],
-        ["Guzz", "Porto"],
-        ["Laink", "Terracid"],
-        ["Wejdene", "Aya Nakamura"],
-        ["Raclette", "Fondue"],
-        ["Poignée de porte", "Clanche"],
-        ["Raclette", "Fondue"],
-        ["Gartic Phone", "Skribbl.io"],
-        ["AmongUs", "Loup Garou"],
-        ["Huitre", "Moule"],
-        ["Langouste", "Homard"],
-        ["Xavier Dupont de Ligonnès", "Charles Manson"],
-        ["Marilyn Manson", "Marilyn Monroe"],
-        ["Abraham Lincoln", "John Fitzgerald Kennedy"],
-        ["CIA", "FBI"],
-        ["Netflix", "Amazon Prime Vidéo"],
-        ["Marvel", "DC Comic"],
-        ["Sega", "Nintendo"],
-        ["Québec", "Canada"],
-        ["Sega", "Nintendo"],
-        ["Carton", "Papier"],
-        ["Réalité Virtuelle", "Réalité Augmentée"],
-        ["HDD", "SSD"],
-        ["Communiste", "Capitaliste"],
-        ["Corée du nord", "Corée du sud"],
-        ["Pochette", "Classeur"],
-        ["Trébuchet", "Catapulte"],
-        ["Lunette", "Lentille"],
-        ["Aristote", "Socrate"],
-        ["Pythagore", "Thalès"],
-        ["Romains", "Grecs"],
-        ["Ohio", "Iowa"],
-        ["Pluie", "Soleil"],
-        ["Croissant", "Pain au chocolat"],
-        ["Louer", "Acheter"],
-        ["Chaton", "Chiot"],
-        ["Virus", "Bacterie"],
-        ["Bière", "Cidre"],
-        ["Parfum", "Déodorant"],
-        ["Youtube", "Netflix"],
-        ["Sac à dos", "Sac à main"],
-        ["Chewing-gum", "Sucette"],
-        ["Cerise", "Fraise"],
-        ["Obélix", "Astérix"],
-        ["Calîn", "Bisou"],
-        ["Calîn", "Biou"],
-        ["Ail", "Oignon"],
-        ["Paris", "Marseille"],
-        ["Papillon", "Oiseau"],
-        ["Crème glacée", "Yaourt"],
-        ["Guitare", "Violon"],
-        ["Piment", "Wasabi"],
-        ["Sportif", "Sédentaire"]
+        [
+            "Banane",
+            "Orange"
+        ],
+        [
+            "Paris",
+            "Londres"
+        ],
+        [
+            "Tennis",
+            "Badminton"
+        ],
+        [
+            "Mickey Mouse",
+            "Donald Duck"
+        ],
+        [
+            "Pizza",
+            "Pâtes"
+        ],
+        [
+            "Coca-Cola",
+            "Pepsi"
+        ],
+        [
+            "Shakespeare",
+            "Molière"
+        ],
+        [
+            "Soleil",
+            "Lune"
+        ],
+        [
+            "Facebook",
+            "Instagram"
+        ],
+        [
+            "Basketball",
+            "Volleyball"
+        ],
+        [
+            "Canard",
+            "Oie"
+        ],
+        [
+            "Spider-Man",
+            "Superman"
+        ],
+        [
+            "Tomate",
+            "Poivron"
+        ],
+        [
+            "Chien",
+            "Chat"
+        ],
+        [
+            "Cinéma",
+            "Théâtre"
+        ],
+        [
+            "Château de Versailles",
+            "Taj Mahal"
+        ],
+        [
+            "Fraise",
+            "Framboise"
+        ],
+        [
+            "Avion",
+            "Hélicoptère"
+        ],
+        [
+            "Monopoly",
+            "Risk"
+        ],
+        [
+            "Ski",
+            "Snowboard"
+        ],
+        [
+            "Star Wars",
+            "Star Trek"
+        ],
+        [
+            "Piano",
+            "Guitare"
+        ],
+        [
+            "Football",
+            "Rugby"
+        ],
+        [
+            "Lion",
+            "Tigre"
+        ],
+        [
+            "McDonald's",
+            "Burger King"
+        ],
+        [
+            "Crocodile",
+            "Alligator"
+        ],
+        [
+            "Arc-en-ciel",
+            "Aurore boréale"
+        ],
+        [
+            "Champagne",
+            "Prosecco"
+        ],
+        [
+            "Harry Potter",
+            "Le Seigneur des Anneaux"
+        ],
+        [
+            "Amazon",
+            "eBay"
+        ],
+        [
+            "Hulk",
+            "Thor"
+        ],
+        [
+            "Pastèque",
+            "Melon"
+        ],
+        [
+            "NASA",
+            "ESA"
+        ],
+        [
+            "Équitation",
+            "Natation"
+        ],
+        [
+            "Café",
+            "Thé"
+        ],
+        [
+            "Napoléon Bonaparte",
+            "Genghis Khan"
+        ],
+        [
+            "Los Angeles",
+            "New York"
+        ],
+        [
+            "Vélo",
+            "Trottinette"
+        ],
+        [
+            "Pingouin",
+            "Manchot"
+        ],
+        [
+            "Lapin",
+            "Lièvre"
+        ],
+        [
+            "Golf",
+            "Mini-golf"
+        ],
+        [
+            "Amazon Rainforest",
+            "Congo Basin"
+        ],
+        [
+            "Mars",
+            "Vénus"
+        ],
+        [
+            "Spaghetti",
+            "Ravioli"
+        ],
+        [
+            "Einstein",
+            "Newton"
+        ],
+        [
+            "Croissant",
+            "Baguette"
+        ],
+        [
+            "Volcan",
+            "Geyser"
+        ],
+        [
+            "Vin rouge",
+            "Vin blanc"
+        ],
+        [
+            "Kangourou",
+            "Wallaby"
+        ],
+        [
+            "Paris Hilton",
+            "Kim Kardashian"
+        ],
+        [
+            "Bateau",
+            "Sous-marin"
+        ],
+        [
+            "Carotte",
+            "Betterave"
+        ],
+        [
+            "Disneyland",
+            "Universal Studios"
+        ],
+        [
+            "Éléphant",
+            "Rhinocéros"
+        ],
+        [
+            "Pikachu",
+            "Charizard"
+        ],
+        [
+            "Allemagne",
+            "Autriche"
+        ],
+        [
+            "Champ de blé",
+            "Champ de maïs"
+        ],
+        [
+            "Guitariste",
+            "Bassiste"
+        ],
+        [
+            "Véhicule tout-terrain",
+            "Bateau à moteur"
+        ],
+        [
+            "Stade de football",
+            "Stade de baseball"
+        ],
+        [
+            "Eau gazeuse",
+            "Soda"
+        ],
+        [
+            "Poulet",
+            "Canard"
+        ],
+        [
+            "Clown",
+            "Magicien"
+        ],
+        [
+            "Super Mario",
+            "Sonic the Hedgehog"
+        ],
+        [
+            "Gâteau au chocolat",
+            "Tarte aux pommes"
+        ],
+        [
+            "Chat noir",
+            "Chouette hulotte"
+        ],
+        [
+            "Abeille",
+            "Guêpe"
+        ],
+        [
+            "Basket",
+            "Football américain"
+        ],
+        [
+            "Maison hantée",
+            "Château hanté"
+        ],
+        [
+            "Été",
+            "Automne"
+        ],
+        [
+            "Licorne",
+            "Dragon"
+        ],
+        [
+            "Grèce",
+            "Italie"
+        ],
+        [
+            "Plage de sable",
+            "Plage de galets"
+        ],
+        [
+            "Vélo de montagne",
+            "Vélo de route"
+        ],
+        [
+            "Colisée",
+            "Pyramides d'Égypte"
+        ],
+        [
+            "Dinosaure",
+            "Mammouth"
+        ],
+        [
+            "Île déserte",
+            "Désert aride"
+        ],
+        [
+            "Superman",
+            "Batman"
+        ],
+        [
+            "Pizza margherita",
+            "Pizza pepperoni"
+        ],
+        [
+            "Livre de fiction",
+            "Livre de non-fiction"
+        ],
+        [
+            "Jazz",
+            "Classique"
+        ],
+        [
+            "Tortue",
+            "Lézard"
+        ],
+        [
+            "Lettuce",
+            "Épinards"
+        ],
+        [
+            "Maison en bois",
+            "Maison en briques"
+        ],
+        [
+            "Frites",
+            "Onion rings"
+        ],
+        [
+            "Luge",
+            "Bobsleigh"
+        ],
+        [
+            "Ferrari",
+            "Lamborghini"
+        ],
+        [
+            "Télésiège",
+            "Télécabine"
+        ],
+        [
+            "Parapluie",
+            "Poncho"
+        ],
+        [
+            "Ours brun",
+            "Ours polaire"
+        ],
+        [
+            "Pirate",
+            "Ninja"
+        ],
+        [
+            "Mont Fuji",
+            "Mont Everest"
+        ],
+        [
+            "Cinéma d'action",
+            "Cinéma d'animation"
+        ],
+        [
+            "Aladdin",
+            "Simba (Le Roi Lion)"
+        ],
+        [
+            "Plat de pâtes",
+            "Plat de riz"
+        ],
+        [
+            "Château de Dracula",
+            "Château de Cendrillon"
+        ],
+        [
+            "Phare",
+            "Moulin à vent"
+        ],
+        [
+            "Phare",
+            "Sémaphore"
+        ],
+        [
+            "Boule de neige",
+            "Tornade"
+        ],
+        [
+            "Festival de musique",
+            "Festival de cinéma"
+        ],
+        [
+            "Hamburger",
+            "Hot-dog"
+        ],
+        [
+            "Science-fiction",
+            "Fantasy"
+        ],
+        [
+            "Walt Disney",
+            "Hanna-Barbera"
+        ],
+        [
+            "Restaurant français",
+            "Restaurant italien"
+        ],
+        [
+            "Planète Mars",
+            "Planète Jupiter"
+        ],
+        [
+            "Les États-Unis",
+            "Le Canada"
+        ],
+        [
+            "Serpent",
+            "Lézard"
+        ],
+        [
+            "Alpinisme",
+            "Plongée sous-marine"
+        ],
+        [
+            "Pomme",
+            "Poire"
+        ],
+        [
+            "Golf miniature",
+            "Bowling"
+        ],
+        [
+            "Trampoline",
+            "Piscine à vagues"
+        ],
+        [
+            "Bouteille de vin",
+            "Bouteille de champagne"
+        ],
+        [
+            "Halloween",
+            "Noël"
+        ],
+        [
+            "Johnny Depp",
+            "Leonardo DiCaprio"
+        ],
+        [
+            "Pamplemousse",
+            "Citron"
+        ],
+        [
+            "Nissan",
+            "Toyota"
+        ],
+        [
+            "Michael Jordan",
+            "Kobe Bryant"
+        ],
+        [
+            "Tarte aux fraises",
+            "Tarte aux framboises"
+        ],
+        [
+            "Tour Eiffel",
+            "Empire State Building"
+        ],
+        [
+            "Roller",
+            "Patins à glace"
+        ],
+        [
+            "Brad Pitt",
+            "George Clooney"
+        ],
+        [
+            "Oranges",
+            "Mandarines"
+        ],
+        [
+            "Judo",
+            "Karaté"
+        ],
+        [
+            "Nike",
+            "Adidas"
+        ],
+        [
+            "Cinéma",
+            "Musée d'art"
+        ],
+        [
+            "Bague",
+            "Collier"
+        ],
+        [
+            "Piscine",
+            "Plage"
+        ],
+        [
+            "Astronaute",
+            "Pilote de chasse"
+        ],
+        [
+            "Las Vegas",
+            "Atlantic City"
+        ],
+        [
+            "Lapin",
+            "Tortue"
+        ],
+        [
+            "Banque",
+            "Caisse d'épargne"
+        ],
+        [
+            "Clown",
+            "Acrobate"
+        ],
+        [
+            "Poisson rouge",
+            "Poisson-clown"
+        ],
+        [
+            "Château fort",
+            "Château de sable"
+        ],
+        [
+            "Plongée sous-marine",
+            "Plongeon de haut vol"
+        ],
+        [
+            "Sushi",
+            "Sashimi"
+        ],
+        [
+            "Jardin zoologique",
+            "Aquarium"
+        ],
+        [
+            "Vélo tout-terrain",
+            "Vélo de course"
+        ],
+        [
+            "Étoile de mer",
+            "Crabe"
+        ],
+        [
+            "Hôtel de luxe",
+            "Auberge de jeunesse"
+        ],
+        [
+            "Saut à l'élastique",
+            "Parachutisme"
+        ],
+        [
+            "Van Gogh",
+            "Picasso"
+        ],
+        [
+            "Miroir",
+            "Loupe"
+        ],
+        [
+            "Hôpital",
+            "Clinique de chirurgie esthétique"
+        ],
+        [
+            "Hérisson",
+            "Pangolin"
+        ],
+        [
+            "Montagne russe",
+            "Toboggan aquatique"
+        ],
+        [
+            "Abeille",
+            "Fourmi"
+        ],
+        [
+            "Cinéma en plein air",
+            "Théâtre en plein air"
+        ],
+        [
+            "Échecs",
+            "Dames"
+        ],
+        [
+            "Gare ferroviaire",
+            "Gare routière"
+        ],
+        [
+            "Papillon",
+            "Libellule"
+        ],
+        [
+            "Hawaï",
+            "Tahiti"
+        ],
+        [
+            "Orchestre symphonique",
+            "Groupe de rock"
+        ],
+        [
+            "Microscope",
+            "Télescope"
+        ],
+        [
+            "Sorcière",
+            "Magicien"
+        ],
+        [
+            "Avion en papier",
+            "Drone"
+        ],
+        [
+            "Oeuf de poule",
+            "Oeuf de caille"
+        ],
+        [
+            "Vache",
+            "Chèvre"
+        ],
+        [
+            "Tigre",
+            "Panthère"
+        ],
+        [
+            "Paris",
+            "Venise"
+        ],
+        [
+            "Stylo à bille",
+            "Stylo plume"
+        ],
+        [
+            "Lac",
+            "Étang"
+        ],
+        [
+            "Appareil photo numérique",
+            "Appareil photo jetable"
+        ],
+        [
+            "Poker",
+            "Échecs"
+        ],
+        [
+            "Avion à hélices",
+            "Avion à réaction"
+        ],
+        [
+            "Piano",
+            "Orgue"
+        ],
+        [
+            "Chat",
+            "Chien"
+        ],
+        [
+            "Mouche",
+            "Moustique"
+        ],
+        [
+            "Pomme",
+            "Poire"
+        ],
+        [
+            "Ampoule",
+            "Bougie"
+        ],
+        [
+            "Panda",
+            "Koala"
+        ],
+        [
+            "Ski nautique",
+            "Surf"
+        ],
+        [
+            "New York",
+            "Los Angeles"
+        ],
+        [
+            "Café au lait",
+            "Cappuccino"
+        ],
+        [
+            "Boulangerie",
+            "Pâtisserie"
+        ],
+        [
+            "Astronaute",
+            "Pirate"
+        ],
+        [
+            "Télévision",
+            "Radio"
+        ],
+        [
+            "Pizza margherita",
+            "Pizza hawaïenne"
+        ],
+        [
+            "Exposition d'art",
+            "Concert de rock"
+        ],
+        [
+            "Escrime",
+            "Taekwondo"
+        ],
+        [
+            "Panier de basket",
+            "But de football"
+        ],
+        [
+            "Basketball",
+            "Football américain"
+        ],
+        [
+            "Aéroport",
+            "Gare ferroviaire"
+        ],
+        [
+            "Hélicoptère",
+            "Dirigeable"
+        ],
+        [
+            "Cinéma d'horreur",
+            "Comédie romantique"
+        ],
+        [
+            "Dentiste",
+            "Orthodontiste"
+        ],
+        [
+            "Citron vert",
+            "Citron jaune"
+        ],
+        [
+            "Gare centrale",
+            "Gare périphérique"
+        ],
+        [
+            "Noix de coco",
+            "Ananas"
+        ],
+        [
+            "Camping",
+            "Hôtel de luxe"
+        ],
+        [
+            "Réfrigérateur",
+            "Congélateur"
+        ],
+        [
+            "Luge",
+            "Toboggan"
+        ],
+        [
+            "Fer à repasser",
+            "Sèche-cheveux"
+        ],
+        [
+            "Robot",
+            "Alien"
+        ],
+        [
+            "Pieds nus",
+            "Chaussettes"
+        ],
+        [
+            "Alcatraz",
+            "Robben Island"
+        ],
+        [
+            "Requin",
+            "Raie manta"
+        ],
+        [
+            "Électrique",
+            "À essence"
+        ],
+        [
+            "Plage de sable",
+            "Plage de galets"
+        ],
+        [
+            "Plage de galets",
+            "Plage de coquillages"
+        ],
+        [
+            "Fruits de mer",
+            "Viande grillée"
+        ],
+        [
+            "Basketball",
+            "Volleyball"
+        ],
+        [
+            "Chocolat chaud",
+            "Café glacé"
+        ],
+        [
+            "Révolutionnaire",
+            "Conformiste"
+        ],
+        [
+            "Nageur",
+            "Surfeur"
+        ],
+        [
+            "Surf",
+            "Bodyboard"
+        ],
+        [
+            "Écureuil",
+            "Castor"
+        ],
+        [
+            "Moto",
+            "Scooter"
+        ],
+        [
+            "Avion de chasse",
+            "Bombe volante"
+        ],
+        [
+            "Saut à l'élastique",
+            "Slackline"
+        ],
+        [
+            "Nain de jardin",
+            "Gnome de jardin"
+        ],
+        [
+            "Amazon",
+            "Alibaba"
+        ],
+        [
+            "Feu de camp",
+            "Barbecue"
+        ],
+        [
+            "Girafe",
+            "Zèbre"
+        ],
+        [
+            "Picasso",
+            "Dali"
+        ],
+        [
+            "Fer à repasser",
+            "Fer à friser"
+        ],
+        [
+            "Blues",
+            "Rock 'n' roll"
+        ],
+        [
+            "Aladin",
+            "Pocahontas"
+        ],
+        [
+            "Aspirateur",
+            "Balai"
+        ],
+        [
+            "Échelle",
+            "Escabeau"
+        ],
+        [
+            "Ours polaire",
+            "Phoque"
+        ],
+        [
+            "Grenouille",
+            "Serpent"
+        ],
+        [
+            "Gondole",
+            "Kayak"
+        ],
+        [
+            "Dragon",
+            "Phoenix"
+        ],
+        [
+            "Photocopieur",
+            "Scanner"
+        ],
+        [
+            "Elvis Presley",
+            "Michael Jackson"
+        ],
+        [
+            "Croissant",
+            "Baguette"
+        ],
+        [
+            "La Tour de Pise",
+            "Le Colisée"
+        ],
+        [
+            "Luge",
+            "Snowboard"
+        ],
+        [
+            "La Joconde",
+            "La Nuit étoilée"
+        ],
+        [
+            "Camping",
+            "Randonnée"
+        ],
+        [
+            "Fruits de mer",
+            "Sushi"
+        ],
+        [
+            "Roller",
+            "Planche à roulettes"
+        ],
+        [
+            "Fusée",
+            "Astronaute"
+        ],
+        [
+            "John Lennon",
+            "Paul McCartney"
+        ],
+        [
+            "Tapis volant",
+            "Balai magique"
+        ],
+        [
+            "Hôpital",
+            "Pharmacie"
+        ],
+        [
+            "Clown",
+            "Magicien"
+        ],
+        [
+            "Toboggan",
+            "Manège"
+        ],
+        [
+            "Fusée",
+            "Soucoupe volante"
+        ],
+        [
+            "Vélo de montagne",
+            "VTT électrique"
+        ],
+        [
+            "Feu d'artifice",
+            "Éclairage laser"
+        ],
+        [
+            "Hippopotame",
+            "Rhinocéros"
+        ],
+        [
+            "Monopoly",
+            "Puissance 4"
+        ],
+        [
+            "Cinéma d'horreur",
+            "Comédie romantique"
+        ],
+        [
+            "Macaron",
+            "Éclair au chocolat"
+        ],
+        [
+            "Ensemble de golf",
+            "Ensemble de cricket"
+        ],
+        [
+            "Da Vinci",
+            "Picasso"
+        ],
+        [
+            "Disneyland",
+            "Legoland"
+        ],
+        [
+            "Saxophone",
+            "Trombone"
+        ],
+        [
+            "Château de sable",
+            "Sculpture de glace"
+        ],
+        [
+            "Galerie d'art",
+            "Musée d'histoire"
+        ],
+        [
+            "Œufs brouillés",
+            "Omelette"
+        ],
+        [
+            "Arc-en-ciel",
+            "Nuit étoilée"
+        ],
+        [
+            "Évêque",
+            "Cardinal"
+        ],
+        [
+            "Nageur",
+            "Plongeur"
+        ],
+        [
+            "Table de billard",
+            "Table de ping-pong"
+        ],
+        [
+            "Château de sable",
+            "Taj Mahal"
+        ],
+        [
+            "Piano",
+            "Harpe"
+        ],
+        [
+            "Athlétisme",
+            "Natation"
+        ],
+        [
+            "Baguette magique",
+            "Bâton de marche"
+        ],
+        [
+            "Pirate",
+            "Corsaire"
+        ],
+        [
+            "Picasso",
+            "Dali"
+        ],
+        [
+            "Vin rouge",
+            "Vin blanc"
+        ],
+        [
+            "Café",
+            "Thé"
+        ],
+        [
+            "Trampoline",
+            "Parachute"
+        ],
+        [
+            "Piano",
+            "Orgue"
+        ],
+        [
+            "Ours en peluche",
+            "Poupée en porcelaine"
+        ],
+        [
+            "Haut-parleur",
+            "Microphone"
+        ],
+        [
+            "Hamburger",
+            "Hot-dog"
+        ],
+        [
+            "Piscine à vagues",
+            "Rivière tranquille"
+        ],
+        [
+            "Aspirateur",
+            "Lave-linge"
+        ],
+        [
+            "Maison hantée",
+            "Château hanté"
+        ],
+        [
+            "Cheval de course",
+            "Poney de ferme"
+        ],
+        [
+            "Monopoly",
+            "Risk"
+        ],
+        [
+            "Parachutiste",
+            "Base jumper"
+        ],
+        [
+            "Mer Méditerranée",
+            "Mer Baltique"
+        ],
+        [
+            "Colisée",
+            "Acropole"
+        ],
+        [
+            "Ours en peluche",
+            "Teddy bear"
+        ],
+        [
+            "La Cène",
+            "Le Dernier Repas"
+        ],
+        [
+            "Grenouille",
+            "Crapaud"
+        ],
+        [
+            "Festival de musique",
+            "Festival de cinéma"
+        ],
+        [
+            "Luge",
+            "Bobsleigh"
+        ],
+        [
+            "Piscine à vagues",
+            "Lac tranquille"
+        ],
+        [
+            "Viking",
+            "Chevalier médiéval"
+        ],
+        [
+            "Clarinette",
+            "Flûte traversière"
+        ],
+        [
+            "Monopoly",
+            "Échecs"
+        ],
+        [
+            "Panier de basket",
+            "But de soccer"
+        ],
+        [
+            "Galerie d'art",
+            "Atelier de poterie"
+        ],
+        [
+            "Cathédrale de Notre-Dame",
+            "Basilique Saint-Pierre"
+        ],
+        [
+            "Archer",
+            "Lanceur de javelot"
+        ],
+        [
+            "Terre",
+            "Pluton"
+        ],
+        [
+            "Montagne russe",
+            "Foire d'attractions"
+        ],
+        [
+            "Chocolat chaud",
+            "Café glacé"
+        ],
+        [
+            "Miroir",
+            "Fenêtre"
+        ],
+        [
+            "Chanteur de rock",
+            "Chanteur de country"
+        ],
+        [
+            "Fer à repasser",
+            "Fer à friser"
+        ],
+        [
+            "Araignée",
+            "Scorpion"
+        ],
+        [
+            "Château fort",
+            "Château de princesse"
+        ],
+        [
+            "Basketball",
+            "Tennis"
+        ],
+        [
+            "Haut-de-forme",
+            "Casquette de baseball"
+        ],
+        [
+            "Vin rouge",
+            "Soda"
+        ],
+        [
+            "Alien",
+            "Extraterrestre"
+        ],
+        [
+            "Aurore boréale",
+            "Crépuscule"
+        ],
+        [
+            "Horloge murale",
+            "Montre-bracelet"
+        ],
+        [
+            "Raquette de tennis",
+            "Raquette de ping-pong"
+        ],
+        [
+            "Cochon",
+            "Vache"
+        ],
+        [
+            "Moto",
+            "Scooter"
+        ],
+        [
+            "Fusée",
+            "Avion de chasse"
+        ],
+        [
+            "Réfrigérateur",
+            "Congélateur"
+        ],
+        [
+            "Carrousel",
+            "Montagnes russes"
+        ],
+        [
+            "Marathon",
+            "Sprint"
+        ],
+        [
+            "Stylo à bille",
+            "Stylo plume"
+        ],
+        [
+            "Salon de coiffure",
+            "Salon de beauté"
+        ],
+        [
+            "Guitariste",
+            "Violoniste"
+        ],
+        [
+            "Télévision",
+            "Radio"
+        ],
+        [
+            "Citron vert",
+            "Citron jaune"
+        ],
+        [
+            "Pizza",
+            "Burger"
+        ],
+        [
+            "Fleurs",
+            "Chocolats"
+        ],
+        [
+            "Planète Mars",
+            "Planète Jupiter"
+        ],
+        [
+            "Amazon",
+            "eBay"
+        ],
+        [
+            "Pâtes",
+            "Riz"
+        ],
+        [
+            "Pizza margherita",
+            "Pizza pepperoni"
+        ],
+        [
+            "Basketball",
+            "Baseball"
+        ],
+        [
+            "Été",
+            "Automne"
+        ],
+        [
+            "Robe de mariée",
+            "Costume de marié"
+        ],
+        [
+            "Pom-pom girl",
+            "Majorette"
+        ],
+        [
+            "Château de Dracula",
+            "Château de Cendrillon"
+        ],
+        [
+            "Glissade d'eau",
+            "Parc aquatique"
+        ],
+        [
+            "Microscope",
+            "Télescope"
+        ],
+        [
+            "Jazz",
+            "Classique"
+        ],
+        [
+            "Tennis de table",
+            "Billard"
+        ],
+        [
+            "Stade de football",
+            "Stade de baseball"
+        ],
+        [
+            "Oiseau",
+            "Poisson"
+        ],
+        [
+            "Super Mario",
+            "Sonic the Hedgehog"
+        ],
+        [
+            "Chocolat noir",
+            "Chocolat au lait"
+        ],
+        [
+            "Aéroport",
+            "Gare routière"
+        ],
+        [
+            "Cinéma d'action",
+            "Cinéma d'animation"
+        ],
+        [
+            "Kangourou",
+            "Koala"
+        ],
+        [
+            "Équitation",
+            "Vélo de montagne"
+        ],
+        [
+            "Restaurant français",
+            "Restaurant italien"
+        ],
+        [
+            "Lion",
+            "Tigre"
+        ],
+        [
+            "Albert Einstein",
+            "Stephen Hawking"
+        ],
+        [
+            "Mars",
+            "Vénus"
+        ],
+        [
+            "Le Seigneur des Anneaux",
+            "Harry Potter"
+        ],
+        [
+            "NASA",
+            "ESA"
+        ],
+        [
+            "Pingouin",
+            "Manchot"
+        ],
+        [
+            "Mickey Mouse",
+            "Donald Duck"
+        ],
+        [
+            "Golf",
+            "Tennis"
+        ],
+        [
+            "Ours polaire",
+            "Ours brun"
+        ],
+        [
+            "Arc-en-ciel",
+            "Aurore boréale"
+        ],
+        [
+            "Hulk",
+            "Thor"
+        ],
+        [
+            "Été",
+            "Hiver"
+        ],
+        [
+            "Pastèque",
+            "Melon"
+        ],
+        [
+            "Los Angeles",
+            "New York"
+        ],
+        [
+            "Star Wars",
+            "Star Trek"
+        ],
+        [
+            "Piano",
+            "Guitare"
+        ],
+        [
+            "Tomate",
+            "Poivron"
+        ],
+        [
+            "Chien",
+            "Chat"
+        ],
+        [
+            "Basketball",
+            "Volleyball"
+        ],
+        [
+            "Cinéma",
+            "Théâtre"
+        ],
+        [
+            "Soleil",
+            "Lune"
+        ],
+        [
+            "Facebook",
+            "Instagram"
+        ],
+        [
+            "Lion",
+            "Tigre"
+        ],
+        [
+            "McDonald's",
+            "Burger King"
+        ],
+        [
+            "Albert Einstein",
+            "Isaac Newton"
+        ],
+        [
+            "Château de Versailles",
+            "Taj Mahal"
+        ],
+        [
+            "Allemagne",
+            "Autriche"
+        ],
+        [
+            "Champ de blé",
+            "Champ de maïs"
+        ],
+        [
+            "Guitariste",
+            "Bassiste"
+        ],
+        [
+            "Véhicule tout-terrain",
+            "Bateau à moteur"
+        ],
+        [
+            "Stade de football",
+            "Stade de baseball"
+        ],
+        [
+            "Café",
+            "Thé"
+        ],
+        [
+            "Napoléon Bonaparte",
+            "Genghis Khan"
+        ],
+        [
+            "Ski",
+            "Snowboard"
+        ],
+        [
+            "Équitation",
+            "Natation"
+        ],
+        [
+            "Poulet",
+            "Canard"
+        ],
+        [
+            "Clown",
+            "Magicien"
+        ],
+        [
+            "Super Mario",
+            "Sonic the Hedgehog"
+        ],
+        [
+            "Gâteau au chocolat",
+            "Tarte aux pommes"
+        ],
+        [
+            "Chat noir",
+            "Chouette hulotte"
+        ],
+        [
+            "Abeille",
+            "Guêpe"
+        ],
+        [
+            "Basket",
+            "Football américain"
+        ],
+        [
+            "Maison hantée",
+            "Château hanté"
+        ],
+        [
+            "Été",
+            "Automne"
+        ],
+        [
+            "Licorne",
+            "Dragon"
+        ],
+        [
+            "Grèce",
+            "Italie"
+        ],
+        [
+            "Plage de sable",
+            "Plage de galets"
+        ],
+        [
+            "Vélo de montagne",
+            "Vélo de route"
+        ],
+        [
+            "Colisée",
+            "Pyramides d'Égypte"
+        ],
+        [
+            "Dinosaure",
+            "Mammouth"
+        ],
+        [
+            "Île déserte",
+            "Désert aride"
+        ],
+        [
+            "Superman",
+            "Batman"
+        ],
+        [
+            "Pizza margherita",
+            "Pizza pepperoni"
+        ],
+        [
+            "Livre de fiction",
+            "Livre de non-fiction"
+        ],
+        [
+            "Jazz",
+            "Classique"
+        ],
+        [
+            "Tortue",
+            "Lézard"
+        ],
+        [
+            "Lettuce",
+            "Épinards"
+        ],
+        [
+            "Maison en bois",
+            "Maison en briques"
+        ],
+        [
+            "Frites",
+            "Onion rings"
+        ],
+        [
+            "Luge",
+            "Bobsleigh"
+        ],
+        [
+            "Ferrari",
+            "Lamborghini"
+        ],
+        [
+            "Télésiège",
+            "Télécabine"
+        ],
+        [
+            "Parapluie",
+            "Poncho"
+        ],
+        [
+            "Ours brun",
+            "Ours polaire"
+        ],
+        [
+            "Pirate",
+            "Ninja"
+        ],
+        [
+            "Mont Fuji",
+            "Mont Everest"
+        ],
+        [
+            "Cinéma d'action",
+            "Cinéma d'animation"
+        ],
+        [
+            "Aladdin",
+            "Simba (Le Roi Lion)"
+        ],
+        [
+            "Plat de pâtes",
+            "Plat de riz"
+        ],
+        [
+            "Château de Dracula",
+            "Château de Cendrillon"
+        ],
+        [
+            "Phare",
+            "Moulin à vent"
+        ],
+        [
+            "Phare",
+            "Sémaphore"
+        ],
+        [
+            "Boule de neige",
+            "Tornade"
+        ],
+        [
+            "Festival de musique",
+            "Festival de cinéma"
+        ],
+        [
+            "Hamburger",
+            "Hot-dog"
+        ],
+        [
+            "Science-fiction",
+            "Fantasy"
+        ],
+        [
+            "Walt Disney",
+            "Hanna-Barbera"
+        ],
+        [
+            "Restaurant français",
+            "Restaurant italien"
+        ],
+        [
+            "Planète Mars",
+            "Planète Jupiter"
+        ],
+        [
+            "Les États-Unis",
+            "Le Canada"
+        ],
+        [
+            "Serpent",
+            "Lézard"
+        ],
+        [
+            "Alpinisme",
+            "Plongée sous-marine"
+        ],
+        [
+            "Pomme",
+            "Poire"
+        ],
+        [
+            "Golf miniature",
+            "Bowling"
+        ],
+        [
+            "Trampoline",
+            "Piscine à vagues"
+        ],
+        [
+            "Bouteille de vin",
+            "Bouteille de champagne"
+        ],
+        [
+            "Halloween",
+            "Noël"
+        ],
+        [
+            "Johnny Depp",
+            "Leonardo DiCaprio"
+        ],
+        [
+            "Pamplemousse",
+            "Citron"
+        ],
+        [
+            "Nissan",
+            "Toyota"
+        ],
+        [
+            "Michael Jordan",
+            "Kobe Bryant"
+        ],
+        [
+            "Tour Eiffel",
+            "Empire State Building"
+        ],
+        [
+            "Roller",
+            "Patins à glace"
+        ],
+        [
+            "Brad Pitt",
+            "George Clooney"
+        ],
+        [
+            "Oranges",
+            "Mandarines"
+        ],
+        [
+            "Judo",
+            "Karaté"
+        ],
+        [
+            "Nike",
+            "Adidas"
+        ],
+        [
+            "Cinéma",
+            "Musée d'art"
+        ],
+        [
+            "Bague",
+            "Collier"
+        ],
+        [
+            "Piscine",
+            "Plage"
+        ],
+        [
+            "Astronaute",
+            "Pilote de chasse"
+        ],
+        [
+            "Las Vegas",
+            "Atlantic City"
+        ],
+        [
+            "Lapin",
+            "Tortue"
+        ],
+        [
+            "Banque",
+            "Caisse d'épargne"
+        ],
+        [
+            "Clown",
+            "Acrobate"
+        ],
+        [
+            "Poisson rouge",
+            "Poisson-clown"
+        ],
+        [
+            "Château de sable",
+            "Château de neige"
+        ],
+        [
+            "Plongée sous-marine",
+            "Plongée en apnée"
+        ],
+        [
+            "Sushi",
+            "Sashimi"
+        ],
+        [
+            "Jardin zoologique",
+            "Aquarium"
+        ],
+        [
+            "Vélo tout-terrain",
+            "Vélo de course"
+        ],
+        [
+            "Étoile de mer",
+            "Crabe"
+        ],
+        [
+            "Hôtel de luxe",
+            "Auberge de jeunesse"
+        ],
+        [
+            "Saut à l'élastique",
+            "Parachutisme"
+        ],
+        [
+            "Van Gogh",
+            "Picasso"
+        ],
+        [
+            "Miroir",
+            "Loupe"
+        ],
+        [
+            "Hôpital",
+            "Clinique de chirurgie esthétique"
+        ],
+        [
+            "Hérisson",
+            "Pangolin"
+        ],
+        [
+            "Montagne russe",
+            "Toboggan aquatique"
+        ],
+        [
+            "Abeille",
+            "Fourmi"
+        ],
+        [
+            "Cinéma en plein air",
+            "Théâtre en plein air"
+        ],
+        [
+            "Échecs",
+            "Dames"
+        ],
+        [
+            "Gare ferroviaire",
+            "Gare routière"
+        ],
+        [
+            "Papillon",
+            "Libellule"
+        ],
+        [
+            "Hawaï",
+            "Tahiti"
+        ],
+        [
+            "Orchestre symphonique",
+            "Groupe de rock"
+        ],
+        [
+            "Microscope",
+            "Télescope"
+        ],
+        [
+            "Sorcière",
+            "Magicien"
+        ],
+        [
+            "Avion en papier",
+            "Drone"
+        ],
+        [
+            "Oeuf de poule",
+            "Oeuf de caille"
+        ],
+        [
+            "Vache",
+            "Chèvre"
+        ],
+        [
+            "Tigre",
+            "Panthère"
+        ],
+        [
+            "Stylo à bille",
+            "Stylo plume"
+        ],
+        [
+            "Lac",
+            "Étang"
+        ],
+        [
+            "Appareil photo numérique",
+            "Appareil photo jetable"
+        ],
+        [
+            "Poker",
+            "Échecs"
+        ],
+        [
+            "Avion à hélices",
+            "Avion à réaction"
+        ],
+        [
+            "Piano",
+            "Orgue"
+        ],
+        [
+            "Chat",
+            "Chien"
+        ],
+        [
+            "Mouche",
+            "Moustique"
+        ],
+        [
+            "Pomme",
+            "Poire"
+        ],
+        [
+            "Ampoule",
+            "Bougie"
+        ],
+        [
+            "Panda",
+            "Koala"
+        ],
+        [
+            "Ski nautique",
+            "Surf"
+        ],
+        [
+            "New York",
+            "Los Angeles"
+        ],
+        [
+            "Café au lait",
+            "Cappuccino"
+        ],
+        [
+            "Boulangerie",
+            "Pâtisserie"
+        ],
+        [
+            "Astronaute",
+            "Pirate"
+        ],
+        [
+            "Télévision",
+            "Radio"
+        ],
+        [
+            "Pizza margherita",
+            "Pizza hawaïenne"
+        ],
+        [
+            "Exposition d'art",
+            "Concert de rock"
+        ],
+        [
+            "Escrime",
+            "Taekwondo"
+        ],
+        [
+            "Panier de basket",
+            "But de football"
+        ],
+        [
+            "Basketball",
+            "Football américain"
+        ],
+        [
+            "Aéroport",
+            "Gare ferroviaire"
+        ],
+        [
+            "Hélicoptère",
+            "Dirigeable"
+        ],
+        [
+            "Cinéma d'horreur",
+            "Comédie romantique"
+        ],
+        [
+            "Dentiste",
+            "Orthodontiste"
+        ],
+        [
+            "Citron vert",
+            "Citron jaune"
+        ],
+        [
+            "Gare centrale",
+            "Gare périphérique"
+        ],
+        [
+            "Noix de coco",
+            "Ananas"
+        ],
+        [
+            "Camping",
+            "Hôtel de luxe"
+        ],
+        [
+            "Réfrigérateur",
+            "Congélateur"
+        ],
+        [
+            "Luge",
+            "Toboggan"
+        ],
+        [
+            "Fer à repasser",
+            "Sèche-cheveux"
+        ],
+        [
+            "Robot",
+            "Alien"
+        ],
+        [
+            "Pieds nus",
+            "Chaussettes"
+        ],
+        [
+            "Alcatraz",
+            "Robben Island"
+        ],
+        [
+            "Requin",
+            "Raie manta"
+        ],
+        [
+            "Électrique",
+            "À essence"
+        ],
+        [
+            "Plage de sable",
+            "Plage de galets"
+        ],
+        [
+            "Plage de galets",
+            "Plage de coquillages"
+        ],
+        [
+            "Fruits de mer",
+            "Viande grillée"
+        ],
+        [
+            "Basketball",
+            "Volleyball"
+        ],
+        [
+            "Chocolat chaud",
+            "Café glacé"
+        ],
+        [
+            "Révolutionnaire",
+            "Conformiste"
+        ],
+        [
+            "Nageur",
+            "Surfeur"
+        ],
+        [
+            "Surf",
+            "Bodyboard"
+        ],
+        [
+            "Écureuil",
+            "Castor"
+        ],
+        [
+            "Moto",
+            "Scooter"
+        ],
+        [
+            "Avion de chasse",
+            "Bombe volante"
+        ],
+        [
+            "Saut à l'élastique",
+            "Slackline"
+        ],
+        [
+            "Nain de jardin",
+            "Gnome de jardin"
+        ],
+        [
+            "Amazon",
+            "Alibaba"
+        ],
+        [
+            "Feu de camp",
+            "Barbecue"
+        ],
+        [
+            "Girafe",
+            "Zèbre"
+        ],
+        [
+            "Picasso",
+            "Dali"
+        ],
+        [
+            "Blues",
+            "Rock 'n' roll"
+        ],
+        [
+            "Aladin",
+            "Pocahontas"
+        ],
+        [
+            "Aspirateur",
+            "Balai"
+        ],
+        [
+            "Échelle",
+            "Escabeau"
+        ],
+        [
+            "Ours polaire",
+            "Phoque"
+        ],
+        [
+            "Grenouille",
+            "Serpent"
+        ],
+        [
+            "Gondole",
+            "Kayak"
+        ],
+        [
+            "Dragon",
+            "Phoenix"
+        ],
+        [
+            "Photocopieur",
+            "Scanner"
+        ]
     ]
 }

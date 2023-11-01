@@ -3,7 +3,7 @@
   "name": "petitelaine-colyseus",
   "version": "1.0.0",
   "engines": {
-    "node": "19.x"
+    "node": "16"
   },
   "description": "npm init template for bootstrapping an empty Colyseus project",
   "main": "lib/index.js",
