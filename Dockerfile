@@ -12,5 +12,4 @@ COPY . .
 
 EXPOSE 2567
 
-CMD [ "yarn", "build" ]
-CMD [ "node", "lib/index.js" ]
+CMD [ "yarn", "start" ]
